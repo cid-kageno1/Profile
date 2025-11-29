@@ -44,7 +44,7 @@ I love experimenting with **JS animations, APIs, and clean UI/UX designs**.
 
 ## 📫 Contact Me
 
-[![Gmail Badge](https://img.shields.io/badge/-cid.kageno@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cid.kageno@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ckageno768@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cid.kageno@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-CidKageno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cidkageno)
 [![Twitter](https://img.shields.io/badge/-@cid_kageno-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cid_kageno)
 
